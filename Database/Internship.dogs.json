@@ -1,0 +1,17 @@
+[{
+  "_id": 2,
+  "name": "Labrador Retriever",
+  "breed_group": "Sporting",
+  "size": "Large",
+  "lifespan": "10-14 years",
+  "origin": "Canada",
+  "temperament": "Gentle",
+  "colors": [
+    "Yellow",
+    "Black",
+    "Chocolate"
+  ],
+  "description": "The Labrador Retriever is one of the most popular dog breeds in the world. They are known for their friendly and outgoing nature, as well as their intelligence and trainability. Labs make excellent family pets and are often used as service dogs and therapy dogs.",
+  "image": "https://fakeimg.pl/500x500/cc6634",
+  "__v": 0
+}]

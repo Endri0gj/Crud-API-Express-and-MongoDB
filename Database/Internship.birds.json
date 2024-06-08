@@ -1,0 +1,28 @@
+[{
+  "_id": 1,
+  "name": "ndryshim",
+  "species": "Haliaeetus leucocephalus",
+  "family": "Accipitridae",
+  "habitat": "Forests, Coasts, and Lakes",
+  "place_of_found": "North America",
+  "diet": "Carnivore",
+  "description": "The bald eagle is a powerful bird of prey known for its white head and tail feathers.",
+  "weight_kg": 6.3,
+  "wingspan_cm": 200,
+  "image": "https://fakeimg.pl/500x500/cc7701",
+  "__v": 0
+},
+{
+  "_id": 3,
+  "name": "Hornbill",
+  "species": "Bucerotidae",
+  "family": "Bucerotidae",
+  "habitat": "Forests and Woodlands",
+  "place_of_found": "Africa, Asia",
+  "diet": "Omnivore",
+  "description": "Hornbills are medium-sized birds known for their large, curved bills.",
+  "weight_kg": 2.7,
+  "wingspan_cm": 100,
+  "image": "https://fakeimg.pl/500x500/cc7703",
+  "__v": 0
+}]

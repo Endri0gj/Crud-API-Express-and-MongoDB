@@ -1,0 +1,74 @@
+[{
+  "_id": 3,
+  "name": "Maine Coon",
+  "origin": "United States",
+  "temperament": "Friendly, Playful, Gentle",
+  "colors": [
+    "Brown Tabby",
+    "Black",
+    "Red",
+    "Silver Tabby"
+  ],
+  "description": "The Maine Coon is a large and friendly breed known for its tufted ears and bushy tail. They are affectionate and sociable cats that get along well with children and other pets.",
+  "image": "https://fakeimg.pl/500x500/cc5522",
+  "__v": 0
+},
+{
+  "_id": 4,
+  "name": "Bengal",
+  "origin": "United States",
+  "temperament": "Active, Energetic, Intelligent",
+  "colors": [
+    "Brown Spotted",
+    "Snow Spotted",
+    "Marble"
+  ],
+  "description": "The Bengal cat is a medium to large-sized breed known for its wild appearance and energetic nature. They are highly intelligent and require mental and physical stimulation.",
+  "image": "https://fakeimg.pl/500x500/cc5533",
+  "__v": 0
+},
+{
+  "_id": 5,
+  "name": "Ragdoll",
+  "origin": "United States",
+  "temperament": "Gentle, Affectionate, Laid-back",
+  "colors": [
+    "Seal",
+    "Blue",
+    "Chocolate",
+    "Lilac"
+  ],
+  "description": "The Ragdoll cat is a large and affectionate breed known for its relaxed and docile nature. They are named for their tendency to go limp like a ragdoll when picked up.",
+  "image": "https://fakeimg.pl/500x500/cc5544",
+  "__v": 0
+},
+{
+  "_id": 6,
+  "name": "Sphynx",
+  "origin": "Canada",
+  "temperament": "Curious, Playful, Affectionate",
+  "colors": [
+    "Pink",
+    "White",
+    "Black",
+    "Blue"
+  ],
+  "description": "The Sphynx cat is a hairless breed known for its wrinkled skin and large ears. They are social and attention-seeking cats that enjoy being the center of attention.",
+  "image": "https://fakeimg.pl/500x500/cc5555",
+  "__v": 0
+},
+{
+  "_id": 7,
+  "name": "Scottish Fold",
+  "origin": "Scotland",
+  "temperament": "Sweet, Laid-back, Friendly",
+  "colors": [
+    "White",
+    "Blue",
+    "Cream",
+    "Silver"
+  ],
+  "description": "The Scottish Fold cat is a unique breed known for its folded ears and round face. They are gentle and easy-going cats that form strong bonds with their human families.",
+  "image": "https://fakeimg.pl/500x500/cc5566",
+  "__v": 0
+}]
